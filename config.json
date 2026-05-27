@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggercrocess",
+        "uuid": 11468288,
+        "checksum": "du1rq2"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
